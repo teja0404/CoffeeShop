@@ -31,6 +31,7 @@ The Coffee Shop Microservices project is a distributed system built for managing
 - HashiCorp Vault: HashiCorp Vault is used for secure storage and management of sensitive information, such as API keys, passwords, and other secrets.
 
 ## Architecture diagram
+![image](https://github.com/teja0404/CoffeeShop/assets/38076041/d561e933-db7e-410d-9a23-b031a9d4412d)
 
 ## TODO
 
